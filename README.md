@@ -39,3 +39,4 @@ likewise full[2:] prints from the character on position 2 to the end
 6. len function prints the length of the string
 len(full) gives the answer of 12
 
+
